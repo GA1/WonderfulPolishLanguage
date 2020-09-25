@@ -65,6 +65,8 @@ Pozdrawiam bardzo serdecznie.
 
 - [Wolne Lektury (Free readings)](https://wolnelektury.pl) - A great source of ebooks and audiobooks and much more. The website interface supports many languages. A cool option available on this page is to generate custom PDFs of available works, where you can e.g. add or delete indexes etc.
   [Official required school reading list (Oficjalna polska lista lektur szkolnych)](https://lektury.gov.pl) - The official Polish government website with a list of the required school readings, which are sorted by school grade. The source of books for this site is the website above.
+- [Tiengos Languages web](https://www.tiengos.com/articles?langs=pl) - A responsive website with articles in Polish translated to multiple languages. It provides audio of single words and the whole text.
+- [Tiengos Languages android](https://play.google.com/store/apps/details?id=com.ga1.inwords) - Same as above but as an Android App
 - [Wikisource (Wikiźródła)](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) - A brilliant source with a lot of famous literary texts. 
 - [Chmura czytania](https://chmuraczytania.pl/catalog.php) - A website similar to [Wolne Lektury](https://wolnelektury.pl), also contains a lot of books.
 - [Wielkopolska Digital Library](https://www.wbc.poznan.pl/dlibra) - This is the official Wielkopolska Digital Library. 
